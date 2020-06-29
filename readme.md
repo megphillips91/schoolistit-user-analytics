@@ -1,5 +1,5 @@
   
-# SchooListIt User Analytics
+== SchooListIt User Analytics ==
 Contributors: megphillips91
 Donate link: https://msp-media.org/product/support-open-source/
 Tags: analytics,
@@ -15,7 +15,7 @@ SchooListIt User Analytics is a user specific analytics plugin which creates cus
 ## Description
 
 ## Background ##
-*Using data for good.*
+**Using data for good.**
 
 This plugin is begin developed in conjuction with SchooListIt for the purposes of gathering the data needed to learn from 
 
