@@ -31,12 +31,12 @@ This plugin is begin developed in conjuction with SchooListIt for the purposes o
 ## Applications
 
 Analysis of the data gathered is not within scope for this plugin. However, future usage may include:
--- applying latency measures to trigger parental involvement when too much time has elapsed
--- triggering parental involvement when students have upcoming assignments which teacher highlights as priority
--- measuring student time on page for lessons and alarming student and or teacher when the student is not spending time to learn the material
--- alarming teacher when student learning style has been identified within statistical certainty or when any change is detected so that teacher can work with student to adjust individual learning plan
--- machine suggested individual learning plans for each student
--- integrating to LENA api is such API exists would be a natural value added to this system allowing educators to use language as an indicator of additional needs for children. A huge step in closing the gap.
+- applying latency measures to trigger parental involvement when too much time has elapsed
+- triggering parental involvement when students have upcoming assignments which teacher highlights as priority
+- measuring student time on page for lessons and alarming student and or teacher when the student is not spending time to learn the material
+- alarming teacher when student learning style has been identified within statistical certainty or when any change is detected so that teacher can work with student to adjust individual learning plan
+- machine suggested individual learning plans for each student
+- integrating to LENA api is such API exists would be a natural value added to this system allowing educators to use language as an indicator of additional needs for children. A huge step in closing the gap.
 
 ## Screenshots
 
